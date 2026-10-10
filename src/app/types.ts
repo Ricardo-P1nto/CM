@@ -10,3 +10,4 @@ export type Tarefa = {
 };
 
 export type Filtro = "todas" | "concluidas" | "pendentes";
+
